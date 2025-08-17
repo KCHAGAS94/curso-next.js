@@ -1,0 +1,12 @@
+Curso Next.js (Udemy)
+
+Aula 4 - Inicia e cria o projeto em next.js
+  - Instalação do node.js
+  - Criação do primeiro projeto em next pelo cmd. (npx create-next-app@latest "nomedoprojeto"
+  - Rodando o projeto. (no cmd - npm run dev e depois apertar enter)
+  - Edição de pagina home. 
+  - Como para de roda a aplicação (no cmd aperte ctrl + c e aperte S(Sim). Depois só rodar de novo.
+
+Aula 5 - Instalando ShadcnUI
+  - Pelo cmd, na pasta do projeto, rodar "npx shadcn@latest init"
+  - 
